@@ -1,0 +1,16 @@
+[
+  {
+    "username": "admin",
+    "salt": "cda17efda7584dc219f57879923740a094d2613d1dd64d3a4734c3b353d45225",
+    "hashed_password": "60db7bcf7720c0bc56f15b3703e81f49cec4849fcad5edc84c6715c874babbc2",
+    "role": "Admin",
+    "created_at": "2025-04-24 10:27:33"
+  },
+  {
+    "username": "Ram",
+    "salt": "2a85b3c054c7c6cc49f70225aed932ed238ce365bb72a62c1319b7a37c454efd",
+    "hashed_password": "ff6a675586253da5601de5baf592b8c39501b80f83eea4f6e7a1d28b90555b42",
+    "role": "User",
+    "created_at": "2025-04-24 12:51:19"
+  }
+]

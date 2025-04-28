@@ -1,0 +1,14 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+streamlit==1.28.0
+influxdb-client==1.36.1
+paho-mqtt==2.1.0
+pandas==2.1.1
+plotly==5.17.0
+pydantic==2.4.2
+python-jose==3.3.0
+python-multipart==0.0.6
+pymongo==4.5.0
+passlib==1.7.4
+requests==2.31.0
+PyJWT==2.10.1
